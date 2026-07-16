@@ -33,7 +33,7 @@
 
 ## 📌 Sobre la Organización
 
-> root@derejsoft:~$ deploy --prod
+> root@castorcode:~$ deploy --prod
 >
 > **Innovación Responsable. Código Limpio.**
 
