@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=DerejSoft;Innovaci%C3%B3n+Responsable.+C%C3%B3digo+Limpio.;root%40derejsoft%3A~%24+deploy+--prod" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=CastorCode;Innovaci%C3%B3n+Responsable.+C%C3%B3digo+Limpio.;root%40castorcode%3A~%24+deploy+--prod" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Code-Castor28 | DerejSoft</h1>
+<h1 align="center">Code-Castor28</h1>
 <p align="center">Organización dedicada al desarrollo de software de alto rendimiento, arquitectura avanzada y soluciones tecnológicas robustas. Desarrollado con orgullo en la República Dominicana.</p>
 
 ---
@@ -56,9 +56,7 @@ Organización dedicada al desarrollo de software de alto rendimiento, arquitectu
 | Proyecto | Descripción |
 |---|---|
 | **finanplanen** | Sistema público orientado a la planificación y gestión de entornos financieros. |
-| **DerejFood** | Desarrollo y optimización continua de sistemas de gestión para entornos gastronómicos. |
 | **MCL-FINANZA** | Herramienta enfocada en la gestión financiera, organización y conversión de divisas (US → RD). |
-| **DerejAgro** | Solución orientada a la automatización, facturación y control de procesos en el sector agrícola. |
 
 ---
 
@@ -84,9 +82,6 @@ Organización dedicada al desarrollo de software de alto rendimiento, arquitectu
 ## 🌐 Contacto
 
 <p align="center">
-  <a href="https://derejsoft.com" target="_blank">
-    <img src="https://img.shields.io/badge/Web-derejsoft.com-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web" />
-  </a>
   <a href="https://github.com/Code-Castor28" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Code--Castor28-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
